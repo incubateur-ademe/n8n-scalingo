@@ -31,4 +31,4 @@ if [[ "$REDIS_URL" ]]; then
   fi
 fi
 
-npx n8n $*
+pnpm n8n $*

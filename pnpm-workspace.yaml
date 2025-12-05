@@ -1,0 +1,9 @@
+minimumReleaseAge: 10080
+trustPolicy: no-downgrade
+onlyBuiltDependencies:
+  - n8n
+
+ignoreDepScripts: true
+childConcurrency: 10
+engineStrict: true
+autoInstallPeers: false

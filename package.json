@@ -8,9 +8,10 @@
   },
   "license": "MIT",
   "dependencies": {
-    "n8n": "^1.116.0"
+    "n8n": "^1.122.5"
   },
+  "packageManager": "pnpm@10.22.0",
   "engines": {
-    "node": "24"
+    "node": "^24"
   }
 }
